@@ -1,0 +1,5 @@
+4
+poughkeepsie_server rochester_server    1
+rochester_server    nyc_server          2
+nyc_server          albany_server       3
+albany_server       poughkeepsie_server 4

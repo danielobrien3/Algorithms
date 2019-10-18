@@ -1,0 +1,21 @@
+p
+i four
+i score
+i and
+i seven
+i years
+i ago
+i agzo
+i yearz
+i agyzzzo
+i yeaaz
+r yeaa
+p
+e 'four score and seven years ago our forefathers'
+d 'r0 r1 r00 r01 r10 r11'
+r ago
+r years
+p
+e 'four and score ago seven'
+d 'r0 r1 r00 r01 r10 r11'
+q

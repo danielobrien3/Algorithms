@@ -1,0 +1,17 @@
+call read_input
+call istream::operator<<
+return istream::operator<<
+call istream::operator<<
+call test1
+call test2
+call test3
+call test4
+return read_input
+call solve
+call log
+return log
+call abs
+return abs
+call ostream::operator>>
+return ostream::operator>>
+return solve
